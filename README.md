@@ -158,9 +158,9 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 
 ## 📊 GitHub Stats  
 
-![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nour-developer1&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)
+![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nour-Elrouby&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nour-developer1&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nour-Elrouby&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
 
 </div>
 
