@@ -4,7 +4,7 @@
        alt="Bottom Up Banner" 
        width="100%" />
 </p>   
-  
+
 ## About Me   
 Hi! I’m *Nour El-Rouby* — an *AI Engineer* and third-year *Computers and AI Engineering student*, specializing in *Artificial Intelligence Engineering* and *Data Science*.  
 
