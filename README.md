@@ -1,9 +1,7 @@
 <h1 align="center">👋 Nour El-Rouby's GitHub</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" 
-       alt="Bottom Up Banner" 
-       width="100%" />
-</p>    
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Nour%20El-Rouby&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+
 
 ## About Me   
 Hi! I’m *Nour El-Rouby* — an *AI Engineer* and third-year *Computers and AI Engineering student*, specializing in *Artificial Intelligence Engineering* and *Data Science*.  
