@@ -182,3 +182,30 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 [![Email](https://img.shields.io/badge/Email-nour.developer1%40gmail.com-24292F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nour.developer1@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-elrouby)    [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/nour-el-rouby/badges#credly)    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nour-developer1)
+
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="500"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<h4 align="center">
+  <a href="https://github.com/Malak-Alaabiad?tab=repositories&color=A020F0" title="Show Repositories">
+    <span style="color: #A020F0;">Show More</span>
+  </a>
+  <p align="right">
+    <a href="#top">
+      <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=58a6ff&style=flat&logo" alt="back to top" />
+    </a>
+  </p>
+</h4>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/d5/b9/3b/d5b93bad7c0a1f974a1db0586f770f05.gif" width="300">
+</div>
