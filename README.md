@@ -184,8 +184,6 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-elrouby)    [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/nour-el-rouby/badges#credly)    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nour-developer1)
 
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="500"/>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
