@@ -19,7 +19,7 @@ For me, technology extends beyond algorithms and data; it’s about empowering p
 
 🌍 Based in Egypt | 🤝 Open to collaboration | 🚀 Future AI Engineer aiming to design scalable, production-grade intelligent systems.  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔧 Skills  
 
@@ -39,7 +39,9 @@ For me, technology extends beyond algorithms and data; it’s about empowering p
 - Cybersecurity Fundamentals  
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="280"/>
 
 
@@ -54,7 +56,7 @@ For me, technology extends beyond algorithms and data; it’s about empowering p
 - Cybersecurity Essentials – Cisco Networking Academy  
 - Introduction to Data Science – Cisco Networking Academy  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎖 Credly Badge Wallet  
 You can view all my verified certifications on **[Credly](https://www.credly.com/users/nour-el-rouby/badges#credly)**.  
@@ -66,7 +68,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 - *Introduction to Data Science* – Cisco Networking Academy  
 - *Google Analytics Certification* – Skillshop  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
 
@@ -127,7 +129,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--<div align="center"> 
 
@@ -147,7 +149,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--## 📊 GitHub Stats  
 
@@ -169,7 +171,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 </div>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Get in Touch    
 > I’m always open to discussing new projects, collaborations, or job opportunities.  
@@ -185,7 +187,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
