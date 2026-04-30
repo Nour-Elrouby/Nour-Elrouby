@@ -132,13 +132,6 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--<div align="center"> 
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nour-developer1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>--->
 
 <div align="center">
 
@@ -152,14 +145,6 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--## 📊 GitHub Stats  
-
-![Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=nour-developer1&theme=dark&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nour-developer1&theme=dark&layout=compact&show_icons=true)
-
-
-<!-- GitHub Stats Section -->
 <div align="center">
 
 ## 📊 GitHub Stats  
