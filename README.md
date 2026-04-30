@@ -122,7 +122,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
     <td width="50%" valign="middle" align="center">
       <h3>Movie Portfolio Project</h3>
       <p>Python project for <b>data ingestion, preprocessing, visualization, and insights</b> from movie datasets.</p>
-      <a href="https://github.com/nour-developer1/Movie-Portfolio-Project"><img src="https://img.shields.io/badge/View_Code-2ea44f?logo=github&logoColor=white"/></a>
+      <a href="https://github.com/nour-developer1/Movie-Portfolio-Project"><img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
