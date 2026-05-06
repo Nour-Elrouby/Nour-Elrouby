@@ -137,7 +137,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 
 ## 🔥 GitHub Streak  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nour-Elrouby&theme=dark&hide_border=false&fire=2ea44f&ring=2ea44f&currStreakLabel=2ea44f)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nour-Elrouby&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=1F6FEB&border=30363D)](https://git.io/streak-stats)
 
 </div>
 
