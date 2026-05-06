@@ -184,7 +184,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 <h4 align="center">
   <a href="https://github.com/Nour-Elrouby?tab=repositories&color=A020F0" title="Show Repositories">
     <span style="color: #A020F0;">Show More</span>
- <!--
+ 
   </a>
   <p align="right">
     <a href="#top">
@@ -195,4 +195,4 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 <div align="center">
   <img src="https://i.pinimg.com/originals/d5/b9/3b/d5b93bad7c0a1f974a1db0586f770f05.gif" width="300">
 </div>
--->
+
