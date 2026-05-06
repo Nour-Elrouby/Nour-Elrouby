@@ -82,13 +82,13 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
       </a>
       <p>Conversational AI leveraging <b>NLP</b> for supportive interactions and mental health assistance.</p>
       <p align="center">
-        <a href="https://github.com/nour-developer1/Mental-Health-Chatbot"><img src="https://img.shields.io/badge/View_Code-2ea44f?logo=github&logoColor=white"/></a>
+        <a href="https://github.com/nour-developer1/Mental-Health-Chatbot"><img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/></a>
       </p>
     </td>
     <td width="50%" valign="middle" align="center">
       <h3>Market Basket Analysis</h3>
       <p>Uncovering <b>association rules</b> and customer buying patterns using Python & Jupyter.</p>
-      <a href="https://github.com/nour-developer1/Market-Basket-Analysis"><img src="https://img.shields.io/badge/View_Code-2ea44f?logo=github&logoColor=white"/></a>
+      <a href="https://github.com/nour-developer1/Market-Basket-Analysis"><img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/></a>
     </td>
   </tr>
 
@@ -96,7 +96,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
     <td width="50%" valign="middle" align="center">
       <h3>CodeClause Data Science</h3>
       <p>Applying <b>machine learning</b> and analytics on real-world datasets with interactive dashboards.</p>
-      <a href="https://github.com/nour-developer1/CodeClause-DataScience"><img src="https://img.shields.io/badge/View_Code-2ea44f?logo=github&logoColor=white"/></a>
+      <a href="https://github.com/nour-developer1/CodeClause-DataScience"><img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top" align="center">
       <h3>⚙ Data Automation Project</h3>
@@ -105,7 +105,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
       </a>
       <p>End-to-end automation for <b>data collection, cleaning, transformation, and reporting</b>.</p>
       <p align="center">
-        <a href="https://github.com/nour-developer1/Data-Automation-Project"><img src="https://img.shields.io/badge/View_Code-2ea44f?logo=github&logoColor=white"/></a>
+        <a href="https://github.com/nour-developer1/Data-Automation-Project"><img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/></a>
       </p>
     </td>
   </tr>
@@ -119,13 +119,13 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
       <p>Automated scraper for <b>product data extraction, cleaning, and exploratory analysis</b>.</p>
       <p align="center">
         <!-- Fixed link here -->
-        <a href="https://github.com/nour-developer1/Amazon-Web-Scraper-Project"><img src="https://img.shields.io/badge/View_Code-2ea44f?logo=github&logoColor=white"/></a>
+        <a href="https://github.com/nour-developer1/Amazon-Web-Scraper-Project"><img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/></a>
       </p>
     </td>
     <td width="50%" valign="middle" align="center">
       <h3>Movie Portfolio Project</h3>
       <p>Python project for <b>data ingestion, preprocessing, visualization, and insights</b> from movie datasets.</p>
-      <a href="https://github.com/nour-developer1/Movie-Portfolio-Project"><img src="https://img.shields.io/badge/View_Code-2ea44f?logo=github&logoColor=white"/></a>
+      <a href="https://github.com/nour-developer1/Movie-Portfolio-Project"><img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
@@ -187,7 +187,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
   </a>
   <p align="right">
     <a href="#top">
-      <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=2ea44f&style=flat&logo" alt="back to top" />
+      <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=58a6ff&style=flat&logo" alt="back to top" />
     </a>
   </p>
 </h4>
