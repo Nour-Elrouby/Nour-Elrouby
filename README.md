@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Nour%20El-Rouby&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Nour%20El-Rouby&fontSize=60&fontColor=2ea44f&fontAlignY=35&desc=AI%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nour-Elrouby&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Nour-Elrouby" />
