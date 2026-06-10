@@ -137,11 +137,9 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 
 ## 🔥 GitHub Streak  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nour-Elrouby&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=1F6FEB&border=30363D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nour-Elrouby&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=1F6FEB&border=30363D)](https://git.io/streak-stats)
 
 </div>
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -149,13 +147,11 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 
 ## 📊 GitHub Stats  
 
-![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nour-Elrouby&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
+![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nour-Elrouby&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nour-Elrouby&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nour-Elrouby&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
 
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
