@@ -184,7 +184,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
   </a>
   <p align="right">
     <a href="#top">
-      <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=2ea44f&style=flat&logo" alt="back to top" />
+      <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=58a6ff&style=flat&logo" alt="back to top" />
     </a>
   </p>
 </h4>
