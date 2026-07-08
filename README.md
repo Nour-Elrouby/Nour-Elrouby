@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## About Me   
-Hi! I’m *Nour El-Rouby* — an *AI Engineer* and third-year *Computers and AI Engineering student*, specializing in *Artificial Intelligence Engineering* and *Data Science*.  
+Hi! I’m *Nour El-Rouby* — an *AI Engineer* and fourth-year *Computers and AI Engineering student*, specializing in *Artificial Intelligence Engineering* and *Data Science*.  
 
 I believe technology can be a powerful force for positive change.  
 I am passionate about transforming innovative ideas into real-world solutions—whether it’s creating intelligent chatbots that enhance human interaction or developing eco-friendly technologies that tackle urgent environmental challenges.  
