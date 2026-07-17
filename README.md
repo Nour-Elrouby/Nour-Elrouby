@@ -76,7 +76,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🧠 Mental Health Chatbot</h3>
+      <h3> Mental Health Chatbot</h3>
       <a href="https://github.com/nour-developer1/Mental-Health-Chatbot">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRkOXEyNjIwdHc1OXM1MHB0M2dubmZ6bWpxNDh0NGZ5YW11N2dwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="100%" alt="Mental Health Chatbot"/>
       </a>
@@ -117,7 +117,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
     </a>
   </td>
 <td width="50%" valign="top" align="center">
-  <h3>🎨 Skin Tone Classification</h3>
+  <h3>  Skin Tone Classification</h3>
 
   <a href="https://github.com/Nour-Elrouby/Skin_Tone_Classification">
     <img
@@ -145,7 +145,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 
 <tr>
   <td width="50%" valign="top" align="center">
-    <h3>🛡️ YouTube Spam Comment Detection</h3>
+    <h3> YouTube Spam Comment Detection</h3>
 
   <a href="https://github.com/Nour-Elrouby/Youtube-spam-comment-detection">
       <img
