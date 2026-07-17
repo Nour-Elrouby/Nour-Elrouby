@@ -98,16 +98,20 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
       <p>Applying <b>machine learning</b> and analytics on real-world datasets with interactive dashboards.</p>
       <a href="https://github.com/nour-developer1/CodeClause-DataScience"><img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/></a>
     </td>
-    <td width="50%" valign="top" align="center">
-      <h3>⚙ Data Automation Project</h3>
-      <a href="https://github.com/nour-developer1/Data-Automation-Project">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3cyMXpyNW1mMG81Z2tlYW1meTd3aHZpYWthM255OHdiZzJmM2V5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100%" alt="Data Automation"/>
-      </a>
-      <p>End-to-end automation for <b>data collection, cleaning, transformation, and reporting</b>.</p>
-      <p align="center">
-        <a href="https://github.com/nour-developer1/Data-Automation-Project"><img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/></a>
-      </p>
-    </td>
+<td width="50%" valign="top" align="center">
+  <h3>🎨 Skin Tone Classification</h3>
+  <a href="https://github.com/Nour-Elrouby/Skin_Tone_Classification">
+    <img src="https://raw.githubusercontent.com/Nour-Elrouby/Skin_Tone_Classification/main/Website.png"
+         width="100%"
+         alt="Skin Tone Classification"/>
+  </a>
+  <p>Deep learning application for <b>skin tone classification using CNN, TensorFlow, Keras, and Flask</b>.</p>
+  <p align="center">
+    <a href="https://github.com/Nour-Elrouby/Skin_Tone_Classification">
+      <img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/>
+    </a>
+  </p>
+</td>
   </tr>
 
   <tr>
