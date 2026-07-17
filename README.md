@@ -84,12 +84,20 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
       <p align="center">
         <a href="https://github.com/nour-developer1/Mental-Health-Chatbot"><img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/></a>
       </p>
-    </td>
-    <td width="50%" valign="middle" align="center">
-      <h3>Market Basket Analysis</h3>
-      <p>Uncovering <b>association rules</b> and customer buying patterns using Python & Jupyter.</p>
-      <a href="https://github.com/nour-developer1/Market-Basket-Analysis"><img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/></a>
-    </td>
+   </td>
+<td width="50%" valign="middle" align="center">
+  <h3>RFP Vendor Evaluation Agent</h3>
+  <p>
+    AI-powered procurement solution for
+    <b>document extraction, evidence-based vendor scoring, proposal ranking, and auditable RFP evaluation</b>.
+  </p>
+  <a href="https://github.com/Nour-Elrouby/rfp-vendor-evaluation-agent">
+    <img
+      src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"
+      alt="View Code"
+    />
+  </a>
+</td>
   </tr>
 
   <tr>
