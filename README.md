@@ -122,21 +122,35 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
       />
     </a>
   </p>
-</td>
-  </tr>
+  </td>
+</tr>
 
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🕷 Amazon Web Scraper</h3>
-      <a href="https://github.com/nour-developer1/Amazon-Web-Scraper-Project">
-        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXcyYmhvMGFsYzZ0YjM2cjQzb2N6enU0MWRtaXgzOGRwdmVyOTZqbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" alt="Amazon Web Scraper"/>
+<tr>
+  <td width="50%" valign="top" align="center">
+    <h3>🛡️ YouTube Spam Comment Detection</h3>
+
+  <a href="https://github.com/Nour-Elrouby/Youtube-spam-comment-detection">
+      <img
+        src="https://media2.giphy.com/media/GobVvg5mhhSOWr7BN7/giphy.gif"
+        width="100%"
+        alt="YouTube Spam Comment Detection"
+      />
+    </a>
+
+  <p>
+      Machine learning project for detecting YouTube spam comments using
+      <b>NLP, text preprocessing, TF-IDF vectorization, and classification models</b>.
+    </p>
+
+  <p align="center">
+      <a href="https://github.com/Nour-Elrouby/Youtube-spam-comment-detection">
+        <img
+          src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"
+          alt="View Code"
+        />
       </a>
-      <p>Automated scraper for <b>product data extraction, cleaning, and exploratory analysis</b>.</p>
-      <p align="center">
-        <!-- Fixed link here -->
-        <a href="https://github.com/nour-developer1/Amazon-Web-Scraper-Project"><img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/></a>
-      </p>
-   </td>
+    </p>
+  </td>
 <td width="50%" valign="middle" align="center">
   <h3>Credit Card Fraud Detection</h3>
   <p>Machine learning project for <b>fraud detection, class imbalance handling, model training, and performance evaluation</b> using credit card transaction data.</p>
