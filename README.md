@@ -121,12 +121,14 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
         <!-- Fixed link here -->
         <a href="https://github.com/nour-developer1/Amazon-Web-Scraper-Project"><img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/></a>
       </p>
-    </td>
-    <td width="50%" valign="middle" align="center">
-      <h3>Movie Portfolio Project</h3>
-      <p>Python project for <b>data ingestion, preprocessing, visualization, and insights</b> from movie datasets.</p>
-      <a href="https://github.com/nour-developer1/Movie-Portfolio-Project"><img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/></a>
-    </td>
+   </td>
+<td width="50%" valign="middle" align="center">
+  <h3>Credit Card Fraud Detection</h3>
+  <p>Machine learning project for <b>fraud detection, class imbalance handling, model training, and performance evaluation</b> using credit card transaction data.</p>
+  <a href="https://github.com/Nour-Elrouby/Credit-Card-Fraud-Detection">
+    <img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/>
+  </a>
+</td>
   </tr>
 </table>
 
