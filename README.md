@@ -122,7 +122,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
       />
     </a>
   </p>
-  </td>
+ </td>
 </tr>
 
 <tr>
@@ -131,18 +131,18 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 
   <a href="https://github.com/Nour-Elrouby/Youtube-spam-comment-detection">
       <img
-        src="https://media2.giphy.com/media/GobVvg5mhhSOWr7BN7/giphy.gif"
+        src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXcyYmhvMGFsYzZ0YjM2cjQzb2N6enU0MWRtaXgzOGRwdmVyOTZqbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif"
         width="100%"
         alt="YouTube Spam Comment Detection"
       />
     </a>
 
-  <p>
-      Machine learning project for detecting YouTube spam comments using
-      <b>NLP, text preprocessing, TF-IDF vectorization, and classification models</b>.
+   <p>
+      Machine learning project for
+      <b>YouTube spam comment detection, text preprocessing, feature extraction, and classification</b>.
     </p>
 
-  <p align="center">
+   <p align="center">
       <a href="https://github.com/Nour-Elrouby/Youtube-spam-comment-detection">
         <img
           src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"
@@ -151,7 +151,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
       </a>
     </p>
   </td>
-<td width="50%" valign="middle" align="center">
+ <td width="50%" valign="middle" align="center">
   <h3>Credit Card Fraud Detection</h3>
   <p>Machine learning project for <b>fraud detection, class imbalance handling, model training, and performance evaluation</b> using credit card transaction data.</p>
   <a href="https://github.com/Nour-Elrouby/Credit-Card-Fraud-Detection">
