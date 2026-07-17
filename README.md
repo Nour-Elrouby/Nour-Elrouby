@@ -98,14 +98,24 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
     />
   </a>
 </td>
-  </tr>
+</tr>
 
-  <tr>
-    <td width="50%" valign="middle" align="center">
-      <h3>CodeClause Data Science</h3>
-      <p>Applying <b>machine learning</b> and analytics on real-world datasets with interactive dashboards.</p>
-      <a href="https://github.com/nour-developer1/CodeClause-DataScience"><img src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"/></a>
- </td>
+<tr>
+  <td width="50%" valign="middle" align="center">
+    <h3>Product Matching in Marketplace Using NLP</h3>
+
+  <p>
+      Matching seller products to a master catalog using
+      <b>text normalization, cosine similarity, fuzzy matching, Levenshtein distance, and SKU prediction</b>.
+    </p>
+
+   <a href="https://github.com/Nour-Elrouby/Product_Matching_In_Marketplace_Using_NLP">
+      <img
+        src="https://img.shields.io/badge/View_Code-58a6ff?logo=github&logoColor=white"
+        alt="View Code"
+      />
+    </a>
+  </td>
 <td width="50%" valign="top" align="center">
   <h3>🎨 Skin Tone Classification</h3>
 
