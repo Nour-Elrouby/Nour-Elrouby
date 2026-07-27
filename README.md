@@ -54,13 +54,17 @@ For me, technology extends beyond algorithms and data; it’s about empowering p
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Tools & Technologies  
-- Generative AI & Large Language Models (LLMs)  
-- Natural Language Processing (NLP)  
-- Data Analysis & Visualization (Power BI, Matplotlib, Seaborn, Plotly)  
+- Generative AI, Large Language Models (LLMs) & Prompt Engineering  
+- Retrieval-Augmented Generation (RAG), Embeddings & Semantic Search  
+- AI Agents & Intelligent Workflow Automation  
+- Natural Language Processing & Document Intelligence  
 - Deep Learning & Neural Networks (CNNs)  
-- Cloud AI (Azure AI, Microsoft AI tools)  
-- Data Automation & Web Scraping  
-- Cybersecurity Fundamentals  
+- AI Application Development & Deployment  
+- MLOps, Git, GitHub, CI/CD & Cloud Deployment  
+- Cloud AI Platforms & APIs  
+- Data Visualization (Matplotlib, Seaborn, Plotly)  
+- Computer Vision, OCR & Image Processing  
+- Web Scraping & Data Automation  
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
