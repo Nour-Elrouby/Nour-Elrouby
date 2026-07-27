@@ -70,15 +70,15 @@ For me, technology extends beyond algorithms and data; it’s about empowering p
 
 
 ## 🏆 Certifications  
+- IBM RAG and Agentic AI Professional Certificate – IBM  
+- Natural Language Processing Specialization – DeepLearning.AI  
+- Deep Learning Specialization – DeepLearning.AI  
+- Applied Deep Learning – NVIDIA  
+- Microsoft Azure AI Essentials Professional Certificate – Microsoft & LinkedIn  
 - Career Essentials in Generative AI – Microsoft & LinkedIn  
 - Generative AI Using SAS – SAS  
 - Generative AI: Working with Large Language Models – LinkedIn  
-- Getting Started with Deep Learning – NVIDIA  
-- Google Analytics Certification – Google Skillshop  
-- Introduction to Artificial Intelligence – LinkedIn  
-- Microsoft Azure AI Essentials – Microsoft & LinkedIn  
-- Cybersecurity Essentials – Cisco Networking Academy  
-- Introduction to Data Science – Cisco Networking Academy  
+- Introduction to Artificial Intelligence – LinkedIn   
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
