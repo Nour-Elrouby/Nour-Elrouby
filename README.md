@@ -233,7 +233,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 
 ## 🤝 Get in Touch    
 > I’m always open to discussing new projects, collaborations, or job opportunities.  
-> I’m also open to freelancing projects in the *AI, Data Science, and Automation* fields.
+> I’m also open to freelance opportunities in *Generative AI, RAG and LLM applications, AI agents, and intelligent automation*.
 
 
 📫 Reach out to me:  
