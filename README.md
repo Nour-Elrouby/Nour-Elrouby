@@ -60,7 +60,7 @@ For me, technology extends beyond algorithms and data; it’s about empowering p
 - Natural Language Processing & Document Intelligence  
 - Deep Learning & Neural Networks (CNNs)  
 - AI Application Development & Deployment  
-- MLOps, Git, GitHub, CI/CD & Cloud Deployment  
+- Git, GitHub, CI/CD & Cloud Deployment  
 - Cloud AI Platforms & APIs  
 - Data Visualization (Matplotlib, Seaborn, Plotly)  
 - Computer Vision, OCR & Image Processing  
