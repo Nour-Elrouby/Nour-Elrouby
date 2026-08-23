@@ -8,7 +8,9 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
 
 ## About Me   
 Hi! I’m *Nour El-Rouby* — an *AI Engineer* and final-year *Computers and AI Engineering student*, specializing in *Artificial Intelligence Engineering* and *Data Science*.  
