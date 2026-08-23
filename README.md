@@ -245,7 +245,7 @@ You can view all my verified certifications on **[Credly](https://www.credly.com
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&section=header" width="100%" alt=""/>
 
 <br>
 
