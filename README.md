@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Nour%20El-Rouby&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nour-Elrouby&label=Profile%20views&color=#245EAD&style=for-the-badge" alt="Nour-Elrouby" />
+  <img src="https://komarev.com/ghpvc/?username=Nour-Elrouby&label=Profile%20views&color=#1F4F93&style=for-the-badge" alt="Nour-Elrouby" />
   <img src="https://img.shields.io/github/followers/Nour-Elrouby?label=Followers&style=for-the-badge&color=58a6ff" alt="Nour-Elrouby" /> 
   <a href="https://nour-elrouby-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
