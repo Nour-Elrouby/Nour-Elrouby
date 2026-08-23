@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=4&section=header" width="100%" />
 
 ## About Me   
 Hi! I’m *Nour El-Rouby* — an *AI Engineer* and final-year *Computers and AI Engineering student*, specializing in *Artificial Intelligence Engineering* and *Data Science*.  
